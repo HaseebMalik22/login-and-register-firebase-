@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">login and register firebase</string>
+    <string name="signup">Signup</string>
+    <string name="full_name">Full name</string>
+    <string name="username">username</string>
+    <string name="register">register</string>
+    <string name="wrong_password">wrong password</string>
+    <string name="usernot">user does not exists</string>
+</resources>
