@@ -67,7 +67,7 @@ public class signup extends AppCompatActivity {
                         if (!password_.isEmpty()) {
                             password_var.setError(null);
                             password_var.setErrorEnabled(false);
-                            if (email_.matches("^[a-zA-Z0-9]+(?:\\.[a-zA-Z0-9]+)*@[a-zA-Z0-9]+(?:\\.[a-zA-Z0-9]+)*$\n")){
+                            if (email_.matches("^[a-z0-9](\\.?[a-z0-9]){5,}@g(oogle)?mail\\.com$")){
 
 
 
